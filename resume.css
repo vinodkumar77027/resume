@@ -1,0 +1,93 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+#div
+{
+    width: 100%;
+    height:250vh;
+}
+#h1
+{
+    position: absolute;
+    left: 600px;
+    top: 0px;
+    text-decoration: underline blue 2px;
+}
+#table
+{
+    margin-top: 150px;
+}
+#h2
+{
+    position: absolute;
+    top: 80px;
+    color: brown;
+}
+#h3
+{
+    text-decoration: underline black 2px;
+    color: blue;
+}
+li
+{
+    margin-top: 20px;
+    font-size: 30px;
+}
+hr
+{
+    border-color: chocolate;
+}
+body
+{
+    background-image: url(resume1.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+#h4
+{
+    margin-top: 20px;
+    text-decoration: underline black 2px;
+    color: aqua;
+}
+#h5
+{
+    margin-top: 20px;
+    text-decoration: underline black 2px;
+    color: blueviolet;
+}
+#h5
+{
+    margin-top: 20px;
+    text-decoration: underline black 2px;
+    color: magenta;
+}
+#h6
+{
+    margin-top: 20px;
+    text-decoration: underline black 2px;
+    color: navy;
+}
+#h7
+{
+    margin-top: 20px;
+    text-decoration: underline black 2px;
+    color: hotpink;
+}
+#h8
+{
+    margin-top: 20px;
+    text-decoration: underline black 2px;
+    color:maroon;
+}
+#h9
+{
+    margin-top: 20px;
+    text-decoration: underline black 2px;
+    color: cornflowerblue;
+}
+h3
+{
+    margin-top: 20px;
+}
